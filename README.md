@@ -71,6 +71,6 @@ With these refinements, my **Spotify clone** offers a **comprehensive and enhanc
 ## 📞 Contact
 
 **Gaurav Joshi**  
-- Project Link : https://spotify-clone-by-gaurav.vercel.app/
-- LinkdIn: https://www.linkedin.com/in/gauravjoshi327/  
+- Instagram : https://www.instagram.com/gauravjoshi327/
+- LinkTree: https://linktr.ee/gauravjoshi327  
 - Email: gauravjoshi327@gmail.com  
