@@ -70,6 +70,7 @@ With these refinements, my **Spotify clone** offers a **comprehensive and enhanc
 
 ## 📞 Contact
 
-**Raghvendra Misra**  
-- Twitter: [@raghvendra_001](https://twitter.com/raghvendra_001)  
-- Email: itsraghav12@gmail.com  
+**Gaurav Joshi**  
+- Project Link : https://spotify-clone-by-gaurav.vercel.app/
+- LinkdIn: https://www.linkedin.com/in/gauravjoshi327/  
+- Email: gauravjoshi327@gmail.com  
